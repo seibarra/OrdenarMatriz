@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\sebas\documents\uade\programación i\ordenarmatriz\ordenarmatriz\source.c(52): warning C4020: 'IntercambiarValor': hay demasiados parámetros reales
+c:\users\sebas\documents\uade\programación i\ordenarmatriz\ordenarmatriz\source.c(73): warning C4029: la lista de parámetros formales declarada es distinta de la definición
+  OrdenarMatriz.vcxproj -> C:\Users\sebas\Documents\UADE\Programación I\OrdenarMatriz\Debug\OrdenarMatriz.exe
